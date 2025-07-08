@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InvoiceGenius</string>
+    <string name="app_slogan">Generuj faktury prosto i szybko!</string>
+
+    <string name="menu_home">Strona główna</string>
+    <string name="menu_gallery">Wprowadź dane z formularza</string>
+    <string name="menu_slideshow">Wprowadź dane z pliku</string>
+</resources>
